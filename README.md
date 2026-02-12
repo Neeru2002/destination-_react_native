@@ -1,26 +1,12 @@
-# Node modules
-node_modules/
+# My Simple React Native App
 
-# Expo
-.expo/
-.expo-shared/
+A minimal React Native (Expo) project with just two main files (`App.js` and `package.json`).  
+Perfect for beginners who want the simplest starting point.
 
-# Logs
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
+---
 
-# Metro cache
-.metro/
+## 🚀 Getting Started
 
-# OS files
-.DS_Store
-Thumbs.db
-
-# Temporary files
-*.tmp
-*.log
-
-# Environment files
-.env
-.env.local
+### 1. Install dependencies
+```bash
+npm install
